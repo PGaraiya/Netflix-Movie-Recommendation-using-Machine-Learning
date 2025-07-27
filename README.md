@@ -61,14 +61,14 @@ Movie1, Movie4, Movie5
 
 ## Usage
 
-1. **Start Google Colab:**
+1. **Start Jupyter Notebook:**
    ```bash
-   Google Colab
+   Jupyter Notebook
    ```
 
-2. **Open the main file** (`Netflix_Movie_Recommendation.ipynb`) and follow the step-by-step instructions.
+2. **Open the main Notebook** (`Netflix_Movie_Recommendation.ipynb`) and follow the step-by-step instructions.
 
-3. **Steps covered in the file:**
+3. **Steps covered in the Notebook:**
    - Load and preprocess the dataset
    - Apply Apriori algorithm to discover frequent movie combinations
    - Generate association rules
